@@ -23,3 +23,4 @@ This is my review of [paper](https://breezy-perfume-dec.notion.site/Fourier-Feat
 ## Reference
 [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739.pdf)<br>
 [Pytorch Fourier Feature Networks](https://github.com/ndahlquist/pytorch-fourier-feature-networks)
+ 
