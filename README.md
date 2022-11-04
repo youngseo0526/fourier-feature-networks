@@ -21,7 +21,7 @@ download file [here](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip)
 ## Result
 | source | PSNR | SSIM |
 | ------ | ------| ------|
-| paper | 17.125 | 0.173 |
+| paper | 17.125 | 0.713 |
 | this repo |  |  |
 
 ## Reference
