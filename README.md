@@ -22,7 +22,7 @@ download file [here](http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip)
 | source | PSNR | SSIM |
 | ------ | ------| ------|
 | paper | 17.125 | 0.713 |
-| this repo |  |  |
+| this repo | 34.634 | 0.982 |
 
 ## Reference
 [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739.pdf)<br>
