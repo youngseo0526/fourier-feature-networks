@@ -3,7 +3,7 @@ This code reproduction of Fourier Feature Network framework in PyTorch implement
 
 Original [paper](https://arxiv.org/pdf/2006.10739.pdf) and [code](https://github.com/tancik/fourier-feature-networks) were provided
 
-This is my review of [paper](https://breezy-perfume-dec.notion.site/Fourier-Features-Let-Networks-Learn-High-Frequency-Functions-in-Low-Dimensional-Domains-7aa0f1f162b849fb941c678384734752?pvs=4) 
+This is [my review of paper](https://breezy-perfume-dec.notion.site/Fourier-Features-Let-Networks-Learn-High-Frequency-Functions-in-Low-Dimensional-Domains-7aa0f1f162b849fb941c678384734752?pvs=4) 
 
 
 Excute ```demo.ipynb``` in the folder
